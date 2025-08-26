@@ -25,11 +25,12 @@ The goal was to apply SQL techniques for data cleaning, transformation, and deri
 
 ## How to Run
 1. Import the BlinkIT dataset into your SQL environment.  
-2. Open `queries.sql` and run the scripts step by step.  
-3. Explore the results (sample outputs provided in `results.csv`).  
+2. Open `sql_queries script.sql` and run the scripts step by step.  
+3. Explore the results (sample outputs provided in `results.doc`).  
 
 ## Dataset
 The dataset represents sales transactions and outlet details from BlinkIT grocery stores.  
 (*Dataset used for analytics practice*)  
+
 
 
